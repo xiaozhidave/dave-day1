@@ -1,3 +1,8 @@
+/**
+ * @author dave
+ * @version 1.0
+ * @date 2019-11-20 14:53
+ */
 package com.example.demo.entity;
 
 public class Greeting {

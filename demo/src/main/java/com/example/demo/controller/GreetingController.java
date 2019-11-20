@@ -1,3 +1,8 @@
+/**
+ * @author dave
+ * @version 1.0
+ * @date 2019-11-20 14:53
+ */
 package com.example.demo.controller;
 
 import com.example.demo.entity.Greeting;
@@ -6,8 +11,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.atomic.AtomicLong;
-
-import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
 @RestController
 public class GreetingController {
